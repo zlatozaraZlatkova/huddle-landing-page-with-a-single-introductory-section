@@ -76,7 +76,7 @@ img {
     padding-bottom: 1rem;
 }
 
-button {
+.button-link a {
     padding: 1rem 5rem;
     border-radius: 2rem;
     border: 1px solid white;
@@ -85,10 +85,11 @@ button {
     font-size: 1.3rem;
     font-family: 'Poppins', sans-serif;
     color: var(--Violet);
+    background-color: white;
     font-weight: 700;
 }
 
-button:hover {
+.button-link a:hover {
     color: white;
     background-color: var(--Soft-Magenta);
     cursor: pointer;
