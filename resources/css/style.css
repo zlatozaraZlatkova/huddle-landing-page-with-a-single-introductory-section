@@ -87,6 +87,7 @@ img {
     color: var(--Violet);
     background-color: white;
     font-weight: 700;
+    text-decoration: none;
 }
 
 .button-link a:hover {
